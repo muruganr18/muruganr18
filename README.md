@@ -35,7 +35,3 @@ Stay tuned for my latest development projects including:
 ---
 
 Thank you for visiting my profile! Let's build something awesome together 🚀
-
-
-
-[![Mohanraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohanraj2622&bg_color=1f1f1f&color=fbff05&line=ffffff&point=2b00ff&area=true&hide_border=true)]
