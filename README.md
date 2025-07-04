@@ -18,7 +18,7 @@ Java Developer - Fresher
 <img height="50" width="50" src=" https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" /> 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src=" https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=2GRTwFZR2Tqj&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
 
 ### 💻 Workspace Spec
 <img height="30" width="50" src="https://img.icons8.com/?size=100&id=BxJ0Pct2Gxa3&format=png&color=000000"/> <img height="30" width="50" src="https://img.icons8.com/?size=100&id=4gOsVGPywkWU&format=png&color=000000"/>  <img height="30" width="50" src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000"/> 
