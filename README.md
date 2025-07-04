@@ -25,9 +25,9 @@ Java Developer - Fresher
 
 ---
 
-## 🚀 Projects
+## 🚀  Academic Projects
 
-Stay tuned for my latest development projects including:
+Here are some of the key projects I developed during my academic journey:
 - 🧠 **Novel Technique to Detect Data Leakage** – A smart system designed to identify unauthorized access and prevent data breaches.
 - 🎬 **Multimedia Streaming Platform** – A user-friendly platform for streaming songs and movies efficiently.
 - 🏫 **College Management System** – A full-stack solution to manage students, staff, and academic operations in educational institutions.
