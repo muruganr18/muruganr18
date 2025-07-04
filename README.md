@@ -1,16 +1,16 @@
-## Hi there 👋 It's me Mohanraj
+## Hi there 👋 It's me Murugan
 
-Data Analyst @ 8Queens Software Technology
+Java Developer @ Qspiders
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](http://www.mohanmasteryhub.42web.io/)                                                 
-- 🌱 I’m currently learning Devops
-- 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for Job
-- 💬 Ask me about Tech
+- 🔭 Here's my [portfolio]()                                                 
+- 🌱 I’m currently Spring Framework & Microservices
+- 👯 Open to collaborate on: Java, Spring Boot, and Web Development Projects
+- 👀  Actively seeking: Full-time Developer Opportunities
+- 💬 Ask me about Java, Web Development, or Databases
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MOHANRAJ2622) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohanraj41/)
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: I know Hindi.
+- ⚡ Fun fact: I'm always curious to learn new languages and tech tools!
 
 
 ### I code in
